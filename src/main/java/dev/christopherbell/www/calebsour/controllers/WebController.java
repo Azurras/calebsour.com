@@ -1,4 +1,4 @@
-package dev.christopherbell.www.calebsour;
+package dev.christopherbell.www.calebsour.controllers;
 
 import jakarta.servlet.http.HttpServletRequest;
 
